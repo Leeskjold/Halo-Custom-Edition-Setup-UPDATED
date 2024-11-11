@@ -39,7 +39,7 @@
 
 ### **Step 4: Apply the Halo Custom Patch**
 
-1. **Locate the Patch**: After the initial installation is complete, look for the file named **"HaloCustomPatch 110"** in the same folder where you found the installer.
+1. **Locate the Patch**: After the initial installation is complete, look for the file named **"HaloCustomPatch 110"** in the same folder where you found the installer. Cut and paste this in the game's install path.
 
 2. **Install the Patch**: Double-click the patch file to begin the patching process.
 
