@@ -31,5 +31,7 @@ bizhawk should have done this for you, if for any reason not, launch dxwebsetup.
    Huge thanks to SnowyMouse! https://github.com/SnowyMouse/chimera
 
    Huge thanks to Sledmine! https://github.com/Sledmine/mercury
+
+   Huge thanks to https://github.com/HaloCustomEdition/Halo-Custom-Edition-Ultimate-Deluxe-Extreme-Pro-Enhanced-Installer-Guide for inspiring me to update and keys!
  
  Note: please submit and open an issue ticket if you have any problems or if links go down. Happy gaming!
