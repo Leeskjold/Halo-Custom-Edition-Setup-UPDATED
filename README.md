@@ -4,48 +4,20 @@
  
  Disclaimer: This project is based on the game "Halo," originally created by Microsoft. All rights to the original work belong to Microsoft. This modified version is intended for educational and preservation purposes and is not endorsed by Microsoft.
  
-
-### **Step 1: Download the Setup File**
-
-1. **Obtain the Setup File**: Start by downloading the files provided.
-
-2. **Compressed Content**: The contents of the setup file will be compressed, so you will need extraction software (like WinRAR or 7-Zip) to extract the files.
-
----
-
-### **Step 2: Extract the Files**
-
-1. **Locate the Downloaded File**: Navigate to the location where you saved the downloaded setup file.
-
-2. **Extract the Files**:
-   - Right-click on the compressed file and select “Extract Here” or "Extract to [Folder Name]". (e.g., Desktop or a dedicated games folder).
-
----
-
-### **Step 3: Start the Installation Process**
-
-1. **Locate the Installer**: In the extracted folder, find and open the file named **"HaloCustomSetup v1"**.
-
-2. **Enter the Key**: 
-   - Once you launch the installer, it will prompt you for a key.
-   - Open the **"keys.txt"** file located in the **"Game Setup"** folder (the same folder where the installer is located).
-   - Inside the **"keys.txt"** file, you’ll see several keys listed. If possible, use the top one for the installation.
-
-3. **Input the Key**: Enter the chosen key into the installer.
-
-4. **Install to Default Location**: Proceed by selecting the default installation location and click “Install”.
-
----
-
-### **Step 4: Apply the Halo Custom Patch**
-
-1. **Locate the Patch**: After the initial installation is complete, look for the file named **"HaloCustomPatch 110"** in the same folder where you found the installer. Cut and paste this in the game's install path.
-
-2. **Install the Patch**: Double-click the patch file to begin the patching process.
-
-
-Note: Mercury 
- "Mercury is a program that offers cool features for Halo Custom Edition such as downloading and installing addons, maps and mods in general for your Halo Custom Edition game, everything you need stored in a repository, a unique place." Source here down below. Install Mercury, run as admin and find "Chimera". This is important.
  
- https://github.com/Sledmine/mercury
+ :How to Install:
+ 
+ 1. Download from given link and extract.
 
+ 2. Launch bizhawk_prereqs.exe (complete this twice) This will help you get setup for gaming.
+
+ 3. Launch install_all.bat in the Redist folder. You will need all of these at some point if you like to play older games.
+bizhawk should have done this for you, if for any reason not, launch dxwebsetup.exe.
+
+ 4. In the "Game Files" folder, install HaloCustomSetup v1.exe and use the top key in keys.txt
+
+ 5. Cut or copy HaloCustomPatch 110.exe to the game's install path and run it. The game should update.
+
+ 6. For QOL features and better in game security and preformance, install mercury-3.7.0+windows.x64.exe and make sure "Run as Administrator is ticked in compatability tab.
+
+ 7. Launch MercuryUI as admin and find "Chimera" in the list and install with dependencies. You should be good to go if all went well.
