@@ -5,9 +5,12 @@
  Disclaimer: This project is based on the game "Halo," originally created by Microsoft. All rights to the original work belong to Microsoft. This modified version is intended for educational and preservation purposes and is not endorsed by Microsoft.
  
  
+ Get the game here: 
+ 
+ 
  :How to Install:
  
- 1. Download from given link and extract.
+ 1. Download from given link and extract. There is an optional 6GB custom maps.  
 
  2. Launch bizhawk_prereqs.exe (complete this twice) This will help you get setup for gaming.
 
@@ -21,3 +24,9 @@ bizhawk should have done this for you, if for any reason not, launch dxwebsetup.
  6. For QOL features and better in game security and preformance, install mercury-3.7.0+windows.x64.exe and make sure "Run as Administrator is ticked in compatability tab.
 
  7. Launch MercuryUI as admin and find "Chimera" in the list and install with dependencies. You should be good to go if all went well.
+ 
+ 8. If you downloaded the custom maps, extract and place the files in C:\Program Files (x86)\Microsoft Games\Halo Custom Edition\maps
+ 
+ 
+ Note: please submit and open an issue ticket if you have any problems or if links go down. Happy gaming!
+ 
