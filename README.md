@@ -1,5 +1,5 @@
 # Halo Custom Edition Setup
- This repository provides a guide for installing and setting up Halo Custom Edition, a popular modification of the original Halo: Combat Evolved game. The setup instructions include downloading the necessary files, installing the game, applying essential patches, and connecting to an alternitive dedicated server after the GameSpy service shutdown. This allows players to enjoy custom content and multiplayer gameplay seamlessly. 
+ This repository is a guide for installing and setting up Halo Custom Edition, a popular modification of the original Halo: Combat Evolved game. The setup instructions include downloading the necessary files, installing the game, applying essential patches, and connecting to an alternitive dedicated server after the GameSpy service shutdown. This allows players to enjoy custom content and multiplayer gameplay seamlessly. 
   
  
  Disclaimer: This project is based on the game "Halo," originally created by Microsoft. All rights to the original work belong to Microsoft. This modified version is intended for educational and preservation purposes and is not endorsed by Microsoft.
