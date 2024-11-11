@@ -5,8 +5,9 @@
  Disclaimer: This project is based on the game "Halo," originally created by Microsoft. All rights to the original work belong to Microsoft. This modified version is intended for educational and preservation purposes and is not endorsed by Microsoft.
  
  
- Get the game here: 
+ Get the game here: https://mega.nz/file/MsRBWIZS#AF9QYMaxoOolzOs4a6vl0M2sQhBiuyUvSiGoZP0S1X4
  
+ Get the optional map pack here(6G): https://mega.nz/file/toAQjZyK#LsOdMIuXEpTLz2v5K3zTuXHFeABj72Z_tOMTp9lYpV0
  
  :How to Install:
  
