@@ -36,9 +36,15 @@ bizhawk should have done this for you, if for any reason not, launch dxwebsetup.
 
 
 
+
+
+
 Mirror Link GAME: https://megaup.net/a9c2528f3d9290a323ff76be04ca38a5/Halo_Custom_Edition_COMPLETE.rar
 
 Mirror Link CUSTOM MAPS: https://megaup.net/29c18f8a4e719c6bb83cf2bb14359263/Halo_Custom_Maps.rar
+
+
+
 
 
  
