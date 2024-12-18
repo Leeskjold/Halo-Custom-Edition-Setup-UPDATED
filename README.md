@@ -27,7 +27,13 @@ bizhawk should have done this for you, if for any reason not, launch dxwebsetup.
  7. Launch MercuryUI as admin and find "Chimera" in the list and install with dependencies. You should be good to go if all went well.
  
  8. If you downloaded the custom maps, extract and place the files in C:\Program Files (x86)\Microsoft Games\Halo Custom Edition\maps
+
+
+ Please remember to launch Mercery so you can have the latest version of that and Chimera as well!
  
+   
+   
+   
    Huge thanks to SnowyMouse! https://github.com/SnowyMouse/chimera
 
    Huge thanks to Sledmine! https://github.com/Sledmine/mercury
