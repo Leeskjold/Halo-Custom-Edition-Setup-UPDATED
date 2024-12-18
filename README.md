@@ -29,7 +29,7 @@ bizhawk should have done this for you, if for any reason not, launch dxwebsetup.
  8. If you downloaded the custom maps, extract and place the files in C:\Program Files (x86)\Microsoft Games\Halo Custom Edition\maps
 
 
- Please remember to launch Mercery so you can have the latest version of that and Chimera as well!
+ Please remember to launch Mercery from time to time so you can have the latest version of that and Chimera as well!
  
    
    
