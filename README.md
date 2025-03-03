@@ -18,7 +18,7 @@
  3. Launch install_all.bat in the Redist folder. You will need all of these at some point if you like to play older games.
 bizhawk should have done this for you, if for any reason not, launch dxwebsetup.exe.
 
- 4. In the "Game Files" folder, install HaloCustomSetup v1.exe and use the top key in keys.txt
+ 4. In the "Game Files" folder, install HaloCustomSetup v1.exe and use any of the keys in keys.txt
 
  5. Cut or copy HaloCustomPatch 110.exe to the game's install path and run it. The game should update.
 
