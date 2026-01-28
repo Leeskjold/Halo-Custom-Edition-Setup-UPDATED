@@ -7,7 +7,7 @@
  
  Get the game here: https://mega.nz/file/DYcGFCBa#hdWgIKBv5fqDE6wBX3pXrq1_R9XUzpZQQBn3Ui1yK1A
  
- Get the optional map pack here(6G): https://mega.nz/file/SBkGGa6L#UR1qR_eb2L0t_Fs7I58J_6aUgrrQqk8SHuuSh5AF1vE
+ Get the optional map pack here (5.68G) (16.5G uncompressed!) : https://mega.nz/file/SBkGGa6L#UR1qR_eb2L0t_Fs7I58J_6aUgrrQqk8SHuuSh5AF1vE
  
  :How to Install:
  
