@@ -5,9 +5,9 @@
  Disclaimer: This project is based on the game "Halo," originally created by Microsoft. All rights to the original work belong to Microsoft. This modified version is intended for educational and preservation purposes and is not endorsed by Microsoft.
  
  
- Get the game here: https://mega.nz/file/MsRBWIZS#AF9QYMaxoOolzOs4a6vl0M2sQhBiuyUvSiGoZP0S1X4
+ Get the game here: https://mega.nz/file/DYcGFCBa#hdWgIKBv5fqDE6wBX3pXrq1_R9XUzpZQQBn3Ui1yK1A
  
- Get the optional map pack here(6G): https://mega.nz/file/toAQjZyK#LsOdMIuXEpTLz2v5K3zTuXHFeABj72Z_tOMTp9lYpV0
+ Get the optional map pack here(6G): https://mega.nz/file/SBkGGa6L#UR1qR_eb2L0t_Fs7I58J_6aUgrrQqk8SHuuSh5AF1vE
  
  :How to Install:
  
@@ -40,15 +40,7 @@ bizhawk should have done this for you, if for any reason not, launch dxwebsetup.
 
    Huge thanks to https://github.com/HaloCustomEdition/Halo-Custom-Edition-Ultimate-Deluxe-Extreme-Pro-Enhanced-Installer-Guide for inspiring me to update and keys!
 
-
-
-
-
-
-Mirror Link GAME: https://megaup.net/a9c2528f3d9290a323ff76be04ca38a5/Halo_Custom_Edition_COMPLETE.rar
-
-Mirror Link CUSTOM MAPS: https://megaup.net/29c18f8a4e719c6bb83cf2bb14359263/Halo_Custom_Maps.rar
-
+   
 
 
 
